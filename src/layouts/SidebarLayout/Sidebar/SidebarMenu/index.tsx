@@ -250,7 +250,7 @@ function SidebarMenu() {
                   to="/management/transactions"
                   startIcon={<TableChartTwoToneIcon />}
                 >
-                  Transactions List
+                  일반 게시판
                 </Button>
               </ListItem>
             </List>
